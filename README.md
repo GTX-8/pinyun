@@ -1,21 +1,5 @@
-# pinyun
-
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+平云信息科技面试题目
+1.git clone https://github.com/GTX-8/pinyun.git
+2.npm install
+3.npm run dev
+说明：上拉刷新功能完成 触底加载一条数据功能需要后端配合
